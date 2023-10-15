@@ -1,7 +1,7 @@
 ### Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
 
-#### https://www.youtube.com/watch?v=CtVVaH6Pvs8&list=PLLmNg_q93meyO9acorOZZeaRkiRlssRUO
+#### https://www.youtube.com/playlist?list=PLLmNg_q93mewHYKnfY1ECkYRtF1ISe_Za
 
 ### Miro Dashboard:
 We make some mindmap diagrams during the training, That diagrams and notes can be viewed on this link.
