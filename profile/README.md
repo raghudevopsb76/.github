@@ -23,3 +23,28 @@ This website we use it for learning linux in the first week of training.
 
 #### AWS Login Page : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
 
+
+# Linux Command
+```
+ls -A -l 
+(File/ Dir starting with . character are hidden files)
+
+touch 
+rm -f -r 
+cp -r 
+mv 
+pwd
+cd 
+mkdir 
+cat 
+head 
+tail 
+grep 
+awk 
+vim (vim file -> INSERT(i) -> Modify -> ESC -> : -> wq -> Enter)
+
+find 
+curl , -o/-O , -L 
+tar -xf 
+unzip 
+```
