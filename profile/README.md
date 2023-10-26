@@ -9,6 +9,11 @@ You can watch the videos of the sessions from the following link. This is a Yout
 
 #### https://www.youtube.com/playlist?list=PLLmNg_q93mewHYKnfY1ECkYRtF1ISe_Za
 
+### Documentation Link: (Expense Project)
+We have a project in our training, Also we have some more generic topics documented and all those details are found in this link.
+
+#### [https://learndevopsonline.github.io/learndevopsonline/build/docs/category/roboshop-project-setup-documentation/](https://learndevopsonline.github.io/learndevopsonline/build/docs/category/expense-app-project-setup-documentation)
+
 ### Miro Dashboard:
 We make some mindmap diagrams during the training, That diagrams and notes can be viewed on this link.
 
