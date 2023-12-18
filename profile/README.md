@@ -1,6 +1,6 @@
-### Validate your domain.
+### Import Repos.
 
-### https://dnschecker.org/
+#### https://github.com/orgs/expenseapp-v1/repositories
 
 ### How to Make Notes:
 During the training days you need to spend time and make notes, As it really benefit you in long term, So I would suggest to make in the way that is explained in the following video.
